@@ -7,4 +7,4 @@ These days I mainly work on [DevSkills](https://devskills.co). It is a platform 
 
 DevSkills a bootstrapped project and I'm currently running it solo.
 
-I also [hang out on Twitter](https://twitter.com/fenskexyz) where I post behind-the-scenes of working on DevSkills.
+I also [hang out on Twitter](https://twitter.com/fenskexyz) where I post the behind-the-scenes of working on DevSkills.
