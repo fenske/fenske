@@ -8,4 +8,4 @@ These days I mainly work on DevSkills. It is a real-world developer assessment p
 
 I also hang out on [Twitter](https://twitter.com/fenskexyz) and [IndieHackers](https://www.indiehackers.com/fenske) where I post the behind-the-scenes of working on DevSkills.
 
-Don't hesitate to give me a shot and share what you're up to. ✌️ 
+Don't hesitate to give me a shout and share what you're up to. ✌️ 
