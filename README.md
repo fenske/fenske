@@ -1,10 +1,11 @@
 ### Hi there! 👋 I'm Anton.
 
-I'm a Software Engineer and an Online Entrepreneur. This is my GitHub space where I share the coding bits of my work online.
+I'm a Software Engineer and Entrepreneur.
 
+This is my GitHub space where you can find some interesting bits about my career as well as the content I make.
 
-These days I mainly work on [DevSkills](https://devskills.co). It is a platform which provides technical assessment as a standalone service. The platform covers multiple use-cases, e.g. coding interviews, developer portfolios, candidate tech profiles, etc.
+These days I mainly work on DevSkills. It is a real-world developer assessment platform that can make it really easy for you to tell whether someone got practical coding skills.
 
-DevSkills a bootstrapped project and I'm currently running it solo.
+I also hang out on [Twitter](https://twitter.com/fenskexyz) and [IndieHackers](https://www.indiehackers.com/fenske) where I post the behind-the-scenes of working on DevSkills.
 
-I also [hang out on Twitter](https://twitter.com/fenskexyz) where I post the behind-the-scenes of working on DevSkills.
+Don't hesitate to give me a shot and share what you're up to. ✌️ 
